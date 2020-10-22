@@ -1,2 +1,2 @@
 # testrepo
-For Coursera course
+It is a markdown file for this repository. Thats it.
